@@ -6,3 +6,8 @@
 1. If no key was provided 
 
 ![alt text](https://github.com/dheerajnampally/EndPointApiKeyAuthentification/blob/main/Misc/NoKey.PNG?raw=true)
+
+2. If key is not authorized
+
+![alt text](https://github.com/dheerajnampally/EndPointApiKeyAuthentification/blob/main/Misc/Unauthorized.PNG?raw=true)
+
